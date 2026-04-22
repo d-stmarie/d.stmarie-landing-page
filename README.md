@@ -2,10 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Your Name | Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;<img width="1170" height="1999" alt="IMG_8958" src="https://github.com/user-attachments/assets/2baa4e28-28d2-436b-a416-573d3edf37ca" />
 
       margin: 0;
       background: #f4f4f4;
