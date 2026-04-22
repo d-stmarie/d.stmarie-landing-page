@@ -19,7 +19,10 @@
   <h2>Links</h2>
  Resume</a>[David St. Marie resume 2025.docx](https://github.com/user-attachments/files/26983077/David.St.Marie.resume.2025.docx)
 
-https://www.linkedin.com/in/david-st-marie-3128303aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqC5%2F8daxTOqNeJ44mqDPUQ%3D%3D
+
+https://www.linkedin.com/in/david-st-marie-3128303aa/?
+lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqC5%2F8daxTOqNeJ44mqDPUQ%3D%3D
+
 
 https://github.com/d-stmarie
 
