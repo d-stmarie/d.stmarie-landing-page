@@ -2,7 +2,7 @@
 <header>
   <h1>David St. Marie</h1>
   <p>Aspiring Tech Professional</p>
-  <img width="1170" height="1999" alt="IMG_8958" src="https://github.com/user-attachments/assets/b57d6148-a84d-4130-9735-b347de495b18" />
+  <img width="1170" height="1200" alt="IMG_8958" src="https://github.com/user-attachments/assets/b57d6148-a84d-4130-9735-b347de495b18" />
 
 </header>
 
